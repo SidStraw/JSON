@@ -1,0 +1,22 @@
+[
+	{
+		"carrier": "staff0001",
+		"customer": "0912345678",
+		"payload": "三瓶好棒水、兩罐神奇水"
+	},
+	{
+		"carrier": "staff0002",
+		"customer": "0945678123",
+		"payload": "三支雨傘標"
+	},
+	{
+		"carrier": "staff0003",
+		"customer": "0987654321",
+		"payload": "兩隻老虎、兩隻小貓"
+	},
+	{
+		"carrier": "staff0001",
+		"customer": "0912345678",
+		"payload": "四柱鐵杵、十斤筊白筍"
+	}
+]
